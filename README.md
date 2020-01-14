@@ -1,4 +1,4 @@
-# hugo-lunr
+# hugo-lunr (with PITLab flavour)
 ## Generate lunr.js index files from Hugo static sites
 A simple way to add site search to your static [Hugo](https://gohugo.io/) site using [Lunr.js](http://lunrjs.com/).
 

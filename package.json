@@ -1,12 +1,12 @@
 {
-  "name": "hugo-lunr",
-  "version": "0.0.3",
-  "description": "create lunr index file for hugo static site search",
+  "name": "hugo-lunr-pitlab",
+  "version": "0.0.4",
+  "description": "create lunr index file for hugo static site search, customized to fit the needs of pitlab.itu.dk",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dgrigg/hugo-lunr.git"
+    "url": "git+https://github.com/NielsOerbaek/hugo-lunr"
   },
-  "homepage": "https://github.com/dgrigg/hugo-lunr",
+  "homepage": "https://github.com/NielsOerbaek/hugo-lunr",
   "main": "lib/index.js",
   "bin": {
     "hugo-lunr": "bin/index.js"
